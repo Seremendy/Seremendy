@@ -39,11 +39,6 @@ Curioso por tecnologia, sempre buscando aprender algo novo.🚀
 ---
 
 -->
-### 📊 GitHub Stats
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seremendy&show_icons=true&theme=transparent)
-
----
 
 ### 📫 Onde me encontrar
 
