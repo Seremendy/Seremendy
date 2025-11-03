@@ -1,5 +1,5 @@
 ## E aí! Sou o Rodrigo Morello Junior 👨‍💻
-Curioso por tecnologia, sempre buscando aprender algo novo. Tô firme nos estudos de JavaScript pra virar um fullstack no futuro, e de olho no Flutter e TypeScript também. Organização e resiliência não faltam por aqui! 🚀
+Curioso por tecnologia, sempre buscando aprender algo novo.🚀
 
 
 ---
